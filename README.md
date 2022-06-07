@@ -52,11 +52,6 @@ git init
 git add .
 ```
 ```
-git add Ten_file
-```
-### Commit
-Dùng để ghi chú ngắn gọn cho project
-```
 git commit -m "init commit"
 ```
 ```
