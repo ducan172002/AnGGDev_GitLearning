@@ -5,7 +5,6 @@ dùng để tải xuống repo
 ```
 git clone https://github.com/ducan172002/AnGGDev_GitLearning.git
 ```
-## Với 1 project tự mình up lên git
 ### Init
 Dùng để cài đặt git cho project
 ```
@@ -42,6 +41,27 @@ git remote add origin https://github.com/ducan172002/AnGGDev_GitLearning.git
 ```
 ### Push
 Đẩy project lên github
+```
+git push origin main
+```
+## Với 1 project tự mình up lên git
+```
+git init
+```
+```
+git add .
+```
+```
+git add Ten_file
+```
+### Commit
+Dùng để ghi chú ngắn gọn cho project
+```
+git commit -m "init commit"
+```
+```
+git remote add origin https://github.com/ducan172002/AnGGDev_GitLearning.git
+```
 ```
 git push origin main
 ```
