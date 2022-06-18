@@ -6,6 +6,7 @@ dùng để tải xuống repo
 git clone https://github.com/ducan172002/AnGGDev_GitLearning.git
 ```
 ## Với 1 project tự mình up lên git
+### Tạo repo trên github.com sau đó vào terminal truy cập vào project cần up
 ### Init
 Dùng để cài đặt git cho project
 ```
@@ -26,7 +27,7 @@ Kiểm tra có những nhánh nào
 ```
 git branch
 ```
-Thêm hoặc truy cập vào 1 nhánh
+Thêm 1 nhánh
 ```
 git branch -M main
 ```
@@ -42,6 +43,30 @@ git remote add origin https://github.com/ducan172002/AnGGDev_GitLearning.git
 ```
 ### Push
 Đẩy project lên github
+```
+git push origin main
+```
+## Để update project trên github đã push trước đó
+```
+git add .
+```
+```
+git commit -m "init commit"
+```
+Xem nhánh
+```
+git branch
+```
+Đổi vào nhánh muốn úp
+```
+git checkout ten_nhanh
+```
+```
+git add .
+```
+```
+git commit -m "init commit"
+```
 ```
 git push origin main
 ```
