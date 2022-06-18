@@ -1,5 +1,5 @@
 # AnGGDev_GitLearning
-## Chào mừng các cốt đến với khóa học lệnh git
+## Chào mừng các cốt đến với học lệnh git
 ### Clone the repo
 dùng để tải xuống repo
 ```
