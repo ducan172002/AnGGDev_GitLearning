@@ -59,7 +59,7 @@ git branch
 ```
 Đổi vào nhánh muốn úp
 ```
-git checkout ten_nhanh
+git switch ten_nhanh
 ```
 ```
 git add .
