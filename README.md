@@ -57,9 +57,9 @@ Xem nhánh
 ```
 git branch
 ```
-Đổi vào nhánh muốn úp
+dùng để chuyển nhánh hoặc để phục hồi file trong thư mục làm việc từ một commit trước đây ...
 ```
-git switch ten_nhanh
+git checkout ten_nhanh
 ```
 ```
 git add .
